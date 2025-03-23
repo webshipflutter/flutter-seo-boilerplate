@@ -6,7 +6,7 @@ A **fully structured starter template** for **Flutter Web** with **SEO best prac
 
 ## 📸 Screenshots
 
-![Dashboard UI](design.jpg)
+![Dashboard UI](Untitled design.jpg)
 
 
 ## ✨ Features
@@ -14,9 +14,9 @@ A **fully structured starter template** for **Flutter Web** with **SEO best prac
 ### 🔍 SEO & Meta Optimization
 - **Custom SEO Widget**: Dynamically add **meta tags** and structured data (`JSON-LD`) to each page/widget for better indexing and discoverability.
 - **Optimized `index.html`**: Includes a **preloader animation** and smooth transition to improve the **first load experience**.
-  ![Example of Splash Screen](Splash.png)
+  ![Example of Splash Screen](creenshot 2025-03-22 at 10.45.34 PM.png)
 - **Sitemap & Robots.txt**: Auto-generated `sitemap.xml` and `robots.txt` files to guide search engines effectively.
-  ![Example of web level](web level.png)
+  ![Example of web level](Screenshot 2025-03-22 at 10.47.51 PM.png)
 
 ### ⚡️ Speed & Performance
 - **Lazy Loading & Asset Preloading**: Ensures the app loads quickly without unnecessary delays.
@@ -25,7 +25,7 @@ A **fully structured starter template** for **Flutter Web** with **SEO best prac
 ### 📌 Clean URL Routing
 - **Hashless Routing (`/dashboard` instead of `/#/dashboard`)**: Improves **SEO and deep linking**, making URLs more user-friendly.
 - **Prebuilt Routing Files**: Plug-and-play routing setup, making it easy to define new paths without hassle.
-  ![Example of Routing](Routing.png) 
+  ![Example of Routing](Screenshot 2025-03-22 at 10.46.28 PM.png) 
 
 ### 💾 Caching & User Preferences
 - **Prebuilt Local Storage Snippet**: Store **dark/light mode**, **language preferences**, and session data for a **seamless experience**.
