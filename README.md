@@ -3,6 +3,10 @@
 ## 🚀 Overview
 
 A **fully structured starter template** for **Flutter Web** with **SEO best practices** baked in. Designed to help developers build **fast, scalable, and search-engine-friendly** Flutter web applications with minimal setup.
+<a href="https://webshipflutter.lemonsqueezy.com/checkout" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20License-%F0%9F%9A%80-blue?style=for-the-badge" alt="Buy License">
+</a>
+
 
 ## 📸 Screenshots
 
@@ -67,11 +71,11 @@ Refer to the **detailed guide** for installation, usage, and customization when 
 - **No monthly fees**: Pay once and get all updates **forever**.
 
 ## 📌 Get Started
-[Buy the license](https://webshipflutter.carrd.co/)
-Clone the repository and start building:
-```bash
-git clone https://github.com/webshipflutter/shipflutter.git
-```
+<a href="https://webshipflutter.lemonsqueezy.com/checkout" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20License-%F0%9F%9A%80-blue?style=for-the-badge" alt="Buy License">
+</a>
+
+The License comes with a .zip file containing the project when extracted.
 
 Happy coding! 🚀
 
