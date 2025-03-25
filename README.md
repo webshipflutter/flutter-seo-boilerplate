@@ -59,9 +59,8 @@ This boilerplate includes **Fingerprint BotD v1.7.1**, a **bot detection script*
 📜 **License:** MIT License ([FingerprintJS](https://fingerprint.com))
 
 ## 📖 Documentation
-Refer to the **detailed guide** for installation, usage, and customization.
+Refer to the **detailed guide** for installation, usage, and customization when you purchase the license.
 
-👉 [Read the Documentation](link_to_docs)
 
 ## 💰 One-Time Purchase – No Recurring Fees
 - **Lifetime updates**: Boilerplate will be updated with **each Flutter release**.
@@ -71,7 +70,7 @@ Refer to the **detailed guide** for installation, usage, and customization.
 [Buy the license](https://webshipflutter.carrd.co/)
 Clone the repository and start building:
 ```bash
-git clone https://github.com/webshipflutter/webshiflutter.git
+git clone https://github.com/webshipflutter/shipflutter.git
 ```
 
 Happy coding! 🚀
